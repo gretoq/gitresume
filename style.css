@@ -12,6 +12,11 @@ strong {
   font-weight: 500;
 }
 
+.page {
+  width: 595px;
+  margin: 0 auto;
+}
+
 /* #region Header */
 .header {
   display: flex;
@@ -41,6 +46,8 @@ strong {
 
 .header__photo {
   margin-left: 50px;
+  width: 114px;
+  height: 114px;
 }
 /* #endregion */
 
